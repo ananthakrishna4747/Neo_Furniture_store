@@ -1,0 +1,177 @@
+{
+    "categories":[
+        {
+            "ash" : [
+                {
+                    "productId": "admin1-ash-1",
+                    "imageUrl": "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202045/0056/yukas-ash-wood-coffee-table-z.jpg",
+                    "productName": "Yukas & Ash Wood Coffee Table",
+                    "price": "20000",
+                    "description": "Functional and stylish our Yukas & Ash Wood Coffee Table uses mixed materials to create a table with dimension. Featuring two storage compartments you can easily store books blankets and more within reach but out of sight.",
+    
+                                    
+                    "quantity": "16"
+                },
+                {
+                    "productId": "admin1-ash-2",
+                    "imageUrl": "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202052/0012/modernist-wood-lacquer-6-drawer-dresser-winter-wood-z.jpg",
+                    "productName": "Modernist Wood & Lacquer 6-Drawer Dresser - Winter Wood",
+                    "price": "15000",
+                    "description": "Sleek and sophisticated our Modernist Dresser frames richly grained wood in a polished lacquer caseEach is made in a Fair Trade Certified™ facility from sustainably sourced wood. Six drawers open on smooth metal glides,storing everything from clothes and accessories to bedding and knickknacks.",
+                    "quantity": "20"
+                },
+                {
+                    "productId": "admin1-ash-3",
+                    "imageUrl" : "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202048/0004/mid-century-leather-show-wood-chair-z.jpg",
+                    "productName": "Mid-Century Leather Show Wood Chair",
+                    "price": "8000",
+                    "description": "Our Mid-Century Show Leather Wood Chair packs good looks and comfort into one sleek silhouette.The solid wood frame showcases your choice of leather, with sculptural arms and a wide, welcoming seat. Even better: It's Contract Grade, meaning it's extra durable.",
+                    "quantity": "30"
+                },
+                {
+                    "productId": "admin1-ash-4",
+                    "imageUrl" : "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202106/0025/mid-century-show-wood-high-back-leather-chair-o.jpg",
+                    "productName": "Mid-Century Show Wood High-Back Leather Chair",
+                    "price": "15678",
+                    "description": "Named for the way its leather seat peeks through its solid wood frame, our Mid-Century Show Wood High-Back Chair packs good looks and comfort into one sleek silhouette. A wide, welcoming seat and slightly pitched high back complement its sculptural frame.",
+                    "quantity": "26"
+                },
+                {
+                    "productId": "admin1-ash-5",
+                    "imageUrl" : "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202050/0011/volume-side-table-wood-o.jpg",
+                    "productName": "Volume Side Table - Wood",
+                    "price": "4387",
+                    "description": "Our Volume Side Table takes a perfectly rounded base and elevates it with beautiful wood grain, which is amplified by its water-based finish.",
+                    "quantity":"14"
+                }
+            ],
+            "oak" : [
+                {
+                    "productId": "admin1-oak-1",
+                    "imageUrl": "https://rukminim1.flixcart.com/image/612/612/jt8yxe80/dining-set/n/9/r/4-seater-black-carbon-steel-dt64bl-4-royaloak-black-original-imafdxhy5g3gfrdb.jpeg?q=70",
+                    "productName": "RoyalOak Poznan Metal 4 Seater Dining Set",
+                    "price": "14962",
+                    "description": "Boasting of a contemporary design that fits well with most modern dining rooms, this four-seater Milan dining set from Royal Oak is going to be a beautiful addition to your home. Its chairs feature padded backrests and seats, making it as comfortable as it is stylish.", 
+                    "quantity": "20"
+                },
+                {
+                    "productId": "admin1-oak-2",
+                    "imageUrl": "https://rukminim1.flixcart.com/image/612/612/k3orqfk0/office-study-table/7/q/b/mdf-of20191010-royaloak-dark-brown-original-imafmr9xz6nzpzyx.jpeg?q=70",
+                    "productName": "RoyalOak Lavender Engineered Wood Office Table",
+                    "price": "6481",
+                    "description": "This Lavender table is made of engineered wood with Melamine finish. This royaloak table is the simplest product. It supports the basic need to use the table top and storage utility",
+                    "quantity": "30"
+                },
+                {
+                    "productId": "admin1-oak-3",
+                    "imageUrl" : "https://rukminim1.flixcart.com/image/612/612/juu4jgw0/bed/h/w/b/king-brown-rosewood-sheesham-bd20154002-6-royaloak-brown-original-imafen8ynhuz6rgz.jpeg?q=70",
+                    "productName": "RoyalOak Sheesham Wood Solid Wood King Bed",
+                    "price": "59829",
+                    "description": "The Pearl King size bed is made from the solid wood material. This low profile bed has been designed with modernism and minimalism in mind. This fine solid Sheesham wood will create a warm atmosphere in your bedroom. For extra comfort, this wooden bed comes with a classically styled headboard to lean back on while you read. This platform bed offers strong, reliable support for your mattress. The color and wood grain pattern of the product may have a slight natural difference from one another, adding uniqueness to its charm.",
+                    "quantity": "10"
+                },
+                {
+                    "productId": "admin1-oak-4",
+                    "imageUrl" : "https://rukminim1.flixcart.com/image/416/416/jjsw4nk0/coffee-table/s/g/z/rosewood-sheesham-ct4003-royaloak-brown-original-imaf7azyzz83yd5m.jpeg?q=70",
+                    "productName": "RoyalOak Sheesham Wood Solid Wood Coffee Table",
+                    "price": "19490",
+                    "description": "->Rosewood (Sheesham)->Solid Wood->W x H x D: 81.28 cm x 36.83 cm x 81.28 cm (2 ft 7 in x 1 ft 2 in x 2 ft 7 in)->Storage Included->Pre Assembled (Ready to Use)",
+                    "quantity": "26"
+                },
+                {
+                    "productId": "admin1-oak-5",
+                    "imageUrl" : "https://rukminim1.flixcart.com/image/416/416/josxlzk0/dining-set/7/r/z/6-seater-brown-oak-birch-batula-dt314-6-royaloak-brown-original-imafb7fpheuubrax.jpeg?q=70",
+                    "productName": "RoyalOak Aron Solid Wood 6 Seater Dining Set ",
+                    "price": "59890",
+                    "description": "Table Top Material: Solid Wood->Chair Frame: Solid Wood->Table (W x H x D): 160 cm x 76 cm x 100 cm (5 ft 2 in x 2 ft 5 in x 3 ft 3 in)->Seating Capacity: 6 Seater->Delivery Condition: Knock Down - Delivered in non-assembled pieces, installation by service partner",
+                    "quantity":"14"
+                }
+            ],
+            "pine" : [
+                {
+                    "productId": "admin1-pine-1",
+                    "imageUrl": "https://ii1.pepperfry.com/media/catalog/product/x/y/568x625/xylem-end-table--set-of-2--in-walnut-finish-by-conti-xylem-end-table--set-of-2--in-walnut-finish-by--uixgbb.jpg",
+                    "productName": "Xylem End Table",
+                    "price": "15962",
+                    "description": "Contemporary is very current and in trend, of the here and now. It's a very fluid style which takes its cues from the in vogue polishes, textures and colours of the season and bereft of any ornamentation or embellishments.End Table is a small table usually about the height of the arm of a chair that is used beside a larger piece of furniture (such as a sofa, couches or an armchair) to place knick-knacks or decor pieces.", 
+                    "quantity": "20"
+                },
+                {
+                    "productId": "admin1-pine-2",
+                    "imageUrl": "https://ii1.pepperfry.com/media/catalog/product/p/i/568x625/pinewood-portable-table-in-natual-colour-by-clasicraft-pinewood-portable-table-in-natual-colour-by-c-c6he9i.jpg",
+                    "productName": "Pinewood Portable Table in Natual Colour",
+                    "price": "2619",
+                    "description": "ClasiCraft specializes in manufacturing furniture with finest material & quality to customers.Portable Table is a compact, foldable, handy, multipurpose table that can easily set the desk over your lap while you sit either on a bed or on a chair.",
+                    "quantity": "25"
+                },
+                {
+                    "productId": "admin1-pine-3",
+                    "imageUrl" : "https://ii1.pepperfry.com/media/catalog/product/t/u/568x625/tulip-double-wooden-storage-bed-by-komfort-furnishers-tulip-double-wooden-storage-bed-by-komfort-fur-awon1j.jpg",
+                    "productName": "Tulip Queen Size Bed with Storage in Pine wood colour",
+                    "price": "49253",
+                    "description": "Komfort Furnishers has been manufacturing furniture since 1977; a company with a vast experience & in depth knowledge of furniture & its manufacturing processes. Komfort focusses on providing furniture which is sophisticated, elegant, robust & practical to use. The wood used by Komfort Furnishers in its furniture manufacturing is SYP (Southern Yellow Pine Wood). This is a slow grown timber, this process renders the wood with a robust nature & a solid density, more over all the wood is Kiln dried; a treatment given to the wood to avoid myriad of problems.The Daisy wooden storage bed comes with an upholstered head board, the bed is completely made in solid SYP wood. In the storage area and below the mattress 12mm thick Marine grade commercial plywood is used. Steel brackets with superior hydraulic pump is utilized for the storage purposes. The bed can accommodate a mattress of 72 inches X 60 inches (mattress is not provided & has to be procured separately).",
+                    "quantity": "13"
+                },
+                {
+                    "productId": "admin1-pine-4",
+                    "imageUrl": "https://ii1.pepperfry.com/media/catalog/product/m/a/236x260/mark-4-door-wardrobe-in-dual-tone-finish-by-durian-mark-4-door-wardrobe-in-dual-tone-finish-by-duria-fyv7co.jpg",
+                    "productName": "Mark 4 Door Wardrobe in Dual Tone Finish",
+                    "price": "81900",
+                    "description": "Durian is the industries foremost brand, creating beautiful spaces for you within your homes and offices since 1985. With a successful start by importing our furniture we now have 9 factories that manufactures furniture such as Sofas, Beds, Tables, Dining sets and Office Desks & Chairs. We are humbled to have touched the lives of millions of people with our range of world class home and office furniture, innovative laminates, sturdy designer doors, exquisite veneers and top-grade plywood.",
+                    "quantity": "11"
+                },
+                {
+                    "productId": "admin1-pine-5",
+                    "imageUrl" : "https://ii1.pepperfry.com/media/catalog/product/p/o/568x625/portable-table-in-green-colour-by-sattva-portable-table-in-green-colour-by-sattva-ufiozj.jpg",
+                    "productName": "Portable Table in Green Colour",
+                    "price": "1099",
+                    "description": "Sattva a Sanskrit word which is one of the three gunas or qualities an individual possesses. Sattva is the quality of harmony, goodness, purity and creativity. Sattva is a recognised brand owned by its parent company, Excel Ventures. Sattva offers top class products under bean bags, cushions, neck pillows and collapsible furniture.",
+                    "quantity": "16"
+                }
+            ],
+            "glass" : [
+                {
+                    "productId": "admin1-glass-1",
+                    "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kfyasnk0/coffee-table/h/n/d/tempered-glass-cts1r07hg-flipkart-perfect-homes-ebony-black-original-imafwagthzen797e.jpeg?q=70",
+                    "productName": "Perfect Homes Dorn Glass Coffee Table",
+                    "price": "5967",
+                    "description": "->Tempered Glass->Metal->W x H x D: 1100 mm x 450 mm x 600 mm (3 ft 7 in x 1 ft 5 in x 1 ft 11 in)->Storage Included-> Knock Down - Delivered in non-assembled pieces, installation by service partner", 
+                    "quantity": "20"
+                },
+                {
+                    "productId": "admin1-glass-2",
+                    "imageUrl": "https://rukminim1.flixcart.com/image/416/416/k7f34i80/dressing-table/c/5/m/particle-board-fm-dres20-ws3-madhuran-wenge-original-imafpngjgukzueme.jpeg?q=70",
+                    "productName": "Wood Mirror With Shelf Wenge Glass Dressing Table",
+                    "price": "2699",
+                    "description": "Madhuran Dressing Wall Mirror with shelves is designe is such a way to organize your necessary cosmetics etc. and this shelf to change the look of your interiors.It is made 17 mm particle board and it dimension 60cmx13cmx80cm. Care Instructions -Avoid direct sunlight ,direct water splashing .",
+                    "quantity": "16"
+                },
+                {
+                    "productId": "admin1-glass-3",
+                    "imageUrl" : "https://rukminim1.flixcart.com/image/416/416/j5crukw0/dining-table/w/j/7/4-seater-rubber-wood-wesley-round-glass-top-urban-ladder-dark-original-imaewfhkgrermqkt.jpeg?q=70",
+                    "productName": "Urban Ladder Wesley Round Glass Top Glass 4 Seater Dining Table",
+                    "price": "25199",
+                    "description": "For mini round table conferences. Warm wood meets clear glass in the Wesley. Perfect for space-crunched apartments, the shape keeps diners from elbowing each other. Gather around to discuss your day, political affairs or issues of gastronomical importance. Made of rubberwood in a dark walnut finish Table top made of tempered glass Seats up to 4 Please refer to the images for dimension details Any assembly or installation required will be done by the UL team at the time of delivery Indoor use only.",
+                    "quantity": "6"
+                },
+                {
+                    "productId": "admin1-glass-4",
+                    "imageUrl": "https://rukminim1.flixcart.com/image/416/416/kg6vfrk0/coffee-table/e/2/f/toughened-glass-as-table-01-antiqlog-styles-silver-original-imafwhhvfsqfhbvt.jpeg?q=70",
+                    "productName": "ANTIQLOG STYLES AS-DESIGNING TABLE-01 Glass Coffee Table",
+                    "price": "2851",
+                    "description": "Toughened Glass->Metal->W x H x D: 45 cm x 45 cm x 45 cm (1 ft 5 in x 1 ft 5 in x 1 ft 5 in)->Pre Assembled (Ready to Use)",
+                    "quantity": "12"
+                },
+                {
+                    "productId": "admin1-glass-5",
+                    "imageUrl" : "https://rukminim1.flixcart.com/image/416/416/kmkxbww0/office-study-table/m/0/i/tempered-glass-fntbst41hw30182-urban-ladder-honey-walnut-original-imagfg4jtzskcynb.jpeg?q=70",
+                    "productName": "Urban Ladder Glass Study Table",
+                    "price": "20999",
+                    "description": "Material: Tempered Glass->Configuration: Straight->Height x Width: 74.93 cm x 129.794 cm (2 ft 5 in x 4 ft 3 in)->Storage Included->Knock Down - Delivered in non-assembled pieces, installation by service partner",
+                    "quantity": "22"
+                }
+            ]
+        }
+        ]
+    }
+    
